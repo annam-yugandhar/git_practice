@@ -14,7 +14,7 @@ logger.info('another line');
 logger.info('index management');
 logger.info('Update your Elasticsearch indices');
 logger.info('you should see all these in new branch merge');
-logger.info('you should see all these in Kibana');
+logger.info('you should see all these in promethus');
 app.listen(3000, function () {
     logger.info("app listening on port 3000!");
 });
